@@ -16,9 +16,6 @@ My name is Gabriel Oliveira and I'm a Computer Technician. I'm currently studyin
 
 You can find me on...
 
-<a href="https://github.com/gabrielcmo/gabrieklcmo">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='40' />
-</a>  
 <a href="https://www.linkedin.com/in/gabrielcmo/">
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height='40' />
 </a>
