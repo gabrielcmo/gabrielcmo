@@ -2,9 +2,10 @@
 
 <!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Oi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Gabriel Oliveira and I'm a Computer Technician. I'm currently studying Math at <a href="https://www.unicamp.br/unicamp/">Unicamp</a>.
+Meu nome é Gabriel Oliveira, sou Técnico em Informática para Internet e amo programar desde que fiz esse curso!
+Atualmente, sou aluno do curso de Licenciatura em Matemática no <a href="https://www.ime.unicamp.br/">IMECC</a>, na Unicamp.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
