@@ -2,20 +2,23 @@
 
 <!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
-# Oi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Meu nome é Gabriel Oliveira, sou Técnico em Informática para Internet e amo programar desde que fiz esse curso!
 Atualmente, sou aluno do curso de Licenciatura em Matemática no <a href="https://www.ime.unicamp.br/">IMECC</a>, na Unicamp.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+## 🔧 Tecnologias & Ferramentas
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=FF4500)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4682B4)
 
-## Social
+![](https://img.shields.io/badge/Laravel-PHP-informational?style=flat&logo=laravel&logoColor=FF4500&color=4682B4)
+![](https://img.shields.io/badge/React-JavaScript-informational?style=flat&logo=REACT&logoColor=white&color=FFD700)
 
-You can find me on...
+## Redes Sociais
+
+Você pode me achar em...
 
 <a href="https://www.linkedin.com/in/gabrielcmo/">
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height='40' />
