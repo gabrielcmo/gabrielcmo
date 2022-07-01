@@ -2,7 +2,7 @@
 
 <!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
-# Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
+# Olá!
 
 Meu nome é Gabriel Oliveira, sou Técnico em Informática para Internet e amo programar desde que fiz esse curso!
 Atualmente, sou aluno do curso de Licenciatura em Matemática no <a href="https://www.ime.unicamp.br/" target="_blank">IMECC</a>, na Unicamp.
