@@ -5,7 +5,8 @@
 # Olá!
 
 Meu nome é Gabriel Oliveira, sou Técnico em Informática para Internet e amo programar desde que fiz esse curso!
-Atualmente, sou aluno do curso de Licenciatura em Matemática no <a href="https://www.ime.unicamp.br/" target="_blank">IMECC</a>, na Unicamp.
+Atualmente, sou aluno do curso de Licenciatura em Matemática no <a href="https://www.ime.unicamp.br/" target="_blank">IMECC</a>, na Unicamp, e trabalho como desenvolvedor no tempo livre.
+Estou sempre buscando aprender, aproveitando as aportunidades que vão surgindo!
 
 ## 🔧 Tecnologias & Ferramentas
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=FF4500)
