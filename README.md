@@ -4,7 +4,7 @@
 
 # Olá!
 
-Meu nome é Gabriel Oliveira, sou Técnico em Informática para Internet e amo programar desde que fiz esse curso!
+Meu nome é Gabriel Oliveira, sou Técnico em Informática para Internet e gosto de programar desde que fiz esse curso.
 Atualmente, sou aluno do curso de Licenciatura em Matemática no <a href="https://www.ime.unicamp.br/" target="_blank">IMECC</a>, na Unicamp, e trabalho como desenvolvedor no tempo livre.
 Estou sempre buscando aprender, aproveitando as aportunidades que vão surgindo!
 
@@ -22,7 +22,7 @@ Estou sempre buscando aprender, aproveitando as aportunidades que vão surgindo!
 Você pode me achar em...
 
 <a href="https://www.linkedin.com/in/gabrielcmo/">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height='40' />
+ <img align="center" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" height='40' />
 </a>
 
 ## &#x1f4c8; GitHub Stats
