@@ -11,11 +11,11 @@ Estou sempre buscando aprender, aproveitando as aportunidades que vão surgindo!
 ## 🔧 Tecnologias & Ferramentas
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=FF4500)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4682B4)
 
 ![](https://img.shields.io/badge/Laravel-PHP-informational?style=flat&logo=laravel&logoColor=FF4500&color=4682B4)
-![](https://img.shields.io/badge/React-JavaScript-informational?style=flat&logo=REACT&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/React-JS-informational?style=flat&logo=REACT&logoColor=white&color=FFD700)
 
 ## Redes Sociais
 
