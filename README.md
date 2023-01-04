@@ -2,7 +2,7 @@
 
 <!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
 
-# Olá!
+# 😄 Olá!
 
 Meu nome é Gabriel Oliveira, sou Técnico em Informática para Internet e gosto de programar desde que fiz esse curso.
 Atualmente, sou aluno do curso de Licenciatura em Matemática no <a href="https://www.ime.unicamp.br/" target="_blank">IMECC</a>, na Unicamp, e trabalho como desenvolvedor no tempo livre.
@@ -13,7 +13,6 @@ Estou sempre buscando aprender, aproveitando as aportunidades que vão surgindo!
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4682B4)
-
 ![](https://img.shields.io/badge/Laravel-PHP-informational?style=flat&logo=laravel&logoColor=FF4500&color=4682B4)
 ![](https://img.shields.io/badge/React-JS-informational?style=flat&logo=REACT&logoColor=white&color=FFD700)
 
