@@ -4,8 +4,7 @@
 
 # Olá!
 
-Meu nome é Gabriel Oliveira, sou Técnico em Informática para Internet e gosto de programar desde que fiz esse curso.
-Atualmente, sou aluno do curso de Licenciatura em Matemática no <a href="https://www.ime.unicamp.br/" target="_blank">IMECC</a>, na Unicamp.
+Meu nome é Gabriel Oliveira, sou Técnico em Informática para Internet e gosto de programar desde que fiz esse curso, concluí a graduação em Matemática no <a href="https://www.ime.unicamp.br/" target="_blank">IMECC</a>, na Unicamp, em 2025. Atualmente faço mestrado no curso de Ciências e Engenharia de Petróleo, na Faculdade de Engenharia Mecânica (FEM-UNICAMP).
 
 ## 🔧 Tecnologias & Ferramentas
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=FF4500)
@@ -22,16 +21,6 @@ Você pode me achar em...
 <a href="https://www.linkedin.com/in/gabrielcmo/">
  <img align="center" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" height='40' />
 </a>
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/gabrielcmo/gabrielcmo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcmo&hide=java,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/gabrielcmo/gabrielcmo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcmo&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gabriel's GitHub Stats" />
-</a>
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
